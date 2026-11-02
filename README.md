@@ -1,4 +1,4 @@
-# Aqua-Lit: English Sample Dataset
+# Aqua-Lit: Partial Sample Dataset
 
 A 50-record English-language aquaculture literature sample with tools for data validation, model-input preparation, and hierarchical classification evaluation.
 
