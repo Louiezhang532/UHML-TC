@@ -23,5 +23,5 @@ python code/validate.py
 python code/prepare_inputs.py
 python code/validate.py
 ```
-
+For any further information or inquiries regarding this study, please contact us at 897747800@qq.com.
 
